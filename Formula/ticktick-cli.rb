@@ -1,9 +1,8 @@
 class TicktickCli < Formula
   desc "Fast, snappy TickTick CLI tool"
   homepage "https://github.com/CarterT27/ticktick-cli"
-  url "https://github.com/CarterT27/ticktick-cli.git",
-      tag: "v0.1.0",
-      revision: "384faae322630741e153bf9964d66ef9d2caad58"
+  url "https://github.com/CarterT27/ticktick-cli/archive/refs/tags/v0.2.0.tar.gz"
+  sha256 "952b2cab2e27e99ecdc720e5422a0a19cad46942d233c201188fd6bdd0c3c7af"
   license "MIT"
   head "https://github.com/CarterT27/ticktick-cli.git", branch: "main"
 
